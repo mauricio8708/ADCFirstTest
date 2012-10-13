@@ -1,3 +1,4 @@
+<<<<<<< .mine
 this is first.
 
 Donde estas >?
@@ -10,3 +11,17 @@ HELLO $>dfmlsdjnf ?
 
 
 MNO adasdnj??!
+=======
+this is first.
+
+Donde estas >?
+
+what about 3 line ?
+
+Porque>?
+
+line at the end
+
+
+
+>>>>>>> .theirs
